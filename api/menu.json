@@ -1,0 +1,49 @@
+[ { 
+        "title": "Anime Miyazaki",
+        "infoPanel": [ {
+    
+            "title": "My Neighboor Totoro",
+            "image": "https://www.liwu.de/images/filme/174/_thumb1/my-neighbor-totoro.jpg",
+            "year": 1988
+    },{
+    
+            "title": "Kiki's Delivery Service",
+            "image": "https://cdn.mos.cms.futurecdn.net/fZjkeEGfwuouW2Atb7s53G-1200-80.jpg",
+            "year": 1989
+        },{
+            "title": "Spirited Away",
+            "image": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_740,w_1100/v1555275062/shape/mentalfloss/60237-spiritedaway.jpg?itok=XFnmVFr2",
+            "year": 2001
+        },{
+            "title": "Howl's Moving Castle",
+            "image": "https://i1.wp.com/auralcrave.com/wp-content/uploads/2018/02/moving2.jpeg?fit=915%2C514&ssl=1",
+            "year": 2004 
+        }]
+    },
+
+    {
+        "title": "Reviews",
+        "infoPanel": [ {
+            "title": "EE TV",
+            "image": "http://o.aolcdn.com/hss/storage/midas/ff82e6a0b114a0a761fab0340ab88ca8/201107733/eefullbleed.jpg",
+            "product": "EE",
+            "score": 74
+        },{
+            "title": "Nexus 6",
+            "image": "http://o.aolcdn.com/hss/storage/midas/b8b79a39dc5998be97103ac142caf531/201074920/Nexus6-31.jpg",
+            "product": "Google",
+            "score": 86
+        },{
+            "title": "Band",
+            "image": "http://o.aolcdn.com/hss/storage/midas/f54d265d0d464c894db33534a986e6d2/201046092/microsoftbandlead.JPG",
+            "product": "Microsoft",
+            "score": 65
+        },{
+            "title": "Peak",
+            "image": "http://o.aolcdn.com/hss/storage/midas/4e3dca0494c90e36aa2df155419dcc20/201054814/P1010193.jpg",
+            "product": "Basis",
+            "score": 84
+        }]
+    }
+]
+   
